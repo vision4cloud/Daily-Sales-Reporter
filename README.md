@@ -34,13 +34,13 @@ So I built this smart workflow using AWS cloud services that:
 2. Creates schema automatically using AWS Glue
 3. Runs SQL queries on the data using Athena
 4. Processes the result in a Lambda function
-5. Formats the email nicely
+5. Formats the email.
 6. Sends it through SES
 7. Triggered automatically every morning through EventBridge
 
 No one has to log in.  
 No one has to run reports.  
-The manager wakes up with a clean sales summary email.
+The manager wakes up with a sales summary email.
 
 # Architecture Overview
 
