@@ -44,7 +44,7 @@ The manager wakes up with a clean sales summary email.
 
 # Architecture Overview
 
-![Architecture Diagram](daily-sales-report-architecture.png.png)
+![Architecture Diagram](daily-sales-report-architecture.png)
 
 
 
